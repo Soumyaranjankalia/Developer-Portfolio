@@ -76,7 +76,7 @@ const about = () => {
               <Image
                 src={profilePic}
                 alt=""
-                className="w-full h-auto rounded-2"
+                className="w-full h-auto rounded-2xl"
               />
             </div>
             <div className="col-span-2 flex flex-col items-end justify-between">
